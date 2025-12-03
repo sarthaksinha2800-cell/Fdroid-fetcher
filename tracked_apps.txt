@@ -1,0 +1,7 @@
+# 🛒 Orion Store - Auto Tracking List
+# Add F-Droid Package IDs or Full URLs here (one per line).
+# The system will automatically fetch metadata and keep them updated.
+
+org.videolan.vlc
+com.termux
+https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/
